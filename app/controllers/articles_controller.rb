@@ -1,3 +1,5 @@
+require 'kramdown'
+
 class ArticlesController < ApplicationController
 
   def index
